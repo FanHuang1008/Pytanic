@@ -1,5 +1,6 @@
 # Pytanic
  Titanic - Machine Learning from Disaster | Kaggle
+
 First, we need to import the libraries and the data. There are 891 rows, 11 features, and the target (Survived) in the training-set. Let’s take a closer look at the missing data. The Embarked feature has only 2 missing values, which can easily be filled. The Age feature has 177 missing values. We might want to drop the Cabin feature from the dataset since 77% of the values are missing.
  
  
